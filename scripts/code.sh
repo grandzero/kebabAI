@@ -2,7 +2,7 @@
 
 set -e
 
-cd extensions/blueberryai-submodule
+cd extensions/kebabai-submodule
 ./scripts/install-and-build.sh
 cd ../..
 
